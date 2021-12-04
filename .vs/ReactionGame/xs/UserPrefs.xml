@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{3C22D975-4AFF-4A5C-8A4A-27A5B8C4B8F8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ReactionGame/Views/MainPage.xaml.cs">
+    <Files>
+      <File FileName="ReactionGame/App.xaml.cs" Line="13" Column="58" />
+      <File FileName="ReactionGame/Views/MainPage.xaml" Line="13" Column="41" />
+      <File FileName="ReactionGame/Views/MainPage.xaml.cs" Line="21" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ReactionGame" expanded="True">
+            <Node name="ReactionGame" expanded="True">
+              <Node name="Views" expanded="True">
+                <Node name="MainPage.xaml" expanded="True">
+                  <Node name="MainPage.xaml.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ReactionGame.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.492D6F4F-FD0B-4749-85A2-24FC855E8874" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.ReactionGame.Android FirstBuild="True" PreferredExecutionTarget="Android.SelectDevice" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

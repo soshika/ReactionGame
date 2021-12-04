@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ReactionGame.MainPage">
+
+    <ContentPage.Content>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="2.5*" />
+                <RowDefinition Height="5*" />
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+            <Image x:Name="bannerImage" Grid.Row="0" Source="" HorizontalOptions="CenterAndExpand" />
+            <Label Grid.Row="0" x:Name="counterLabel" IsVisible="false" Text="" HorizontalTextAlignment="Center" FontAttributes="Bold" FontSize="40" VerticalTextAlignment="Center"  />
+            <Frame Grid.Row="1" HasShadow="False" BorderColor="Black" BackgroundColor="Transparent" Margin="10, 0" Padding="0">
+                <Grid >
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="*" />
+                        <RowDefinition Height="*" />
+                        <RowDefinition Height="*" />
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*" />
+                        <ColumnDefinition Width="*" />
+                        <ColumnDefinition Width="*" />
+                        <ColumnDefinition Width="*" />
+                    </Grid.ColumnDefinitions>
+                    <ImageButton x:Name="img1" Grid.Row="0" Grid.Column="0" Source="" HorizontalOptions="CenterAndExpand" />
+                    <ImageButton x:Name="img2" Grid.Row="0" Grid.Column="1" Source="" HorizontalOptions="CenterAndExpand" />
+                    <ImageButton x:Name="img3" Grid.Row="0" Grid.Column="2" Source="" HorizontalOptions="CenterAndExpand" />
+                    <ImageButton x:Name="img4" Grid.Row="0" Grid.Column="3" Source="" HorizontalOptions="CenterAndExpand" />
+                    <ImageButton x:Name="img5" Grid.Row="1" Grid.Column="0" Source="" HorizontalOptions="CenterAndExpand" />
+                    <ImageButton x:Name="img6"  Grid.Row="1" Grid.Column="1" Source="" HorizontalOptions="CenterAndExpand" />
+                    <ImageButton x:Name="img7" Grid.Row="1" Grid.Column="2" Source="" HorizontalOptions="CenterAndExpand" />
+                    <ImageButton x:Name="img8" Grid.Row="1" Grid.Column="3" Source="" HorizontalOptions="CenterAndExpand" />
+                    <ImageButton x:Name="img9" Grid.Row="2" Grid.Column="0" Source="" HorizontalOptions="CenterAndExpand" />
+                    <ImageButton x:Name="img10" Grid.Row="2" Grid.Column="1" Source="" HorizontalOptions="CenterAndExpand" />
+                    <ImageButton x:Name="img11" Grid.Row="2" Grid.Column="2" Source="" HorizontalOptions="CenterAndExpand" />
+                    <ImageButton x:Name="img12" Grid.Row="2" Grid.Column="3" Source="" HorizontalOptions="CenterAndExpand" />
+                </Grid>
+            </Frame>
+            
+            <Button Grid.Row="2" Text="Click" BackgroundColor="Black" TextColor="White" Margin="10" Clicked="Button_Clicked" />
+            <Button x:Name="startButton" Grid.Row="2" IsVisible="true" Text="Start" BackgroundColor="Black" TextColor="White" Margin="10" Clicked="StartButton_Clicked" />
+        </Grid>
+    </ContentPage.Content>
+
+</ContentPage>

@@ -1,0 +1,15 @@
+/Users/soshika/Projects/ReactionGame/ReactionGame/bin/Debug/netstandard2.0/ReactionGame.deps.json
+/Users/soshika/Projects/ReactionGame/ReactionGame/bin/Debug/netstandard2.0/ReactionGame.dll
+/Users/soshika/Projects/ReactionGame/ReactionGame/bin/Debug/netstandard2.0/ref/ReactionGame.dll
+/Users/soshika/Projects/ReactionGame/ReactionGame/bin/Debug/netstandard2.0/ReactionGame.pdb
+/Users/soshika/Projects/ReactionGame/ReactionGame/obj/Debug/netstandard2.0/ReactionGame.csproj.AssemblyReference.cache
+/Users/soshika/Projects/ReactionGame/ReactionGame/obj/Debug/netstandard2.0/ReactionGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/soshika/Projects/ReactionGame/ReactionGame/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/soshika/Projects/ReactionGame/ReactionGame/obj/Debug/netstandard2.0/Views/MainPage.xaml.g.cs
+/Users/soshika/Projects/ReactionGame/ReactionGame/obj/Debug/netstandard2.0/ReactionGame.AssemblyInfoInputs.cache
+/Users/soshika/Projects/ReactionGame/ReactionGame/obj/Debug/netstandard2.0/ReactionGame.AssemblyInfo.cs
+/Users/soshika/Projects/ReactionGame/ReactionGame/obj/Debug/netstandard2.0/ReactionGame.csproj.CoreCompileInputs.cache
+/Users/soshika/Projects/ReactionGame/ReactionGame/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/soshika/Projects/ReactionGame/ReactionGame/obj/Debug/netstandard2.0/ReactionGame.dll
+/Users/soshika/Projects/ReactionGame/ReactionGame/obj/Debug/netstandard2.0/ref/ReactionGame.dll
+/Users/soshika/Projects/ReactionGame/ReactionGame/obj/Debug/netstandard2.0/ReactionGame.pdb

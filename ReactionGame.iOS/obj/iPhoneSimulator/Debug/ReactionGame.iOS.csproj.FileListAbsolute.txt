@@ -1,0 +1,70 @@
+/Users/soshika/Projects/ReactionGame/ReactionGame.iOS/bin/iPhoneSimulator/Debug/ReactionGame.iOS.exe
+/Users/soshika/Projects/ReactionGame/ReactionGame.iOS/bin/iPhoneSimulator/Debug/ReactionGame.iOS.pdb
+/Users/soshika/Projects/ReactionGame/ReactionGame.iOS/bin/iPhoneSimulator/Debug/Xamarin.Essentials.dll
+/Users/soshika/Projects/ReactionGame/ReactionGame.iOS/bin/iPhoneSimulator/Debug/Xamarin.Essentials.pdb
+/Users/soshika/Projects/ReactionGame/ReactionGame.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
+/Users/soshika/Projects/ReactionGame/ReactionGame.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.pdb
+/Users/soshika/Projects/ReactionGame/ReactionGame.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.dll
+/Users/soshika/Projects/ReactionGame/ReactionGame.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
+/Users/soshika/Projects/ReactionGame/ReactionGame.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.pdb
+/Users/soshika/Projects/ReactionGame/ReactionGame.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
+/Users/soshika/Projects/ReactionGame/ReactionGame.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.pdb
+/Users/soshika/Projects/ReactionGame/ReactionGame.iOS/bin/iPhoneSimulator/Debug/ar/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/soshika/Projects/ReactionGame/ReactionGame.iOS/bin/iPhoneSimulator/Debug/ca/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/soshika/Projects/ReactionGame/ReactionGame.iOS/bin/iPhoneSimulator/Debug/cs/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/soshika/Projects/ReactionGame/ReactionGame.iOS/bin/iPhoneSimulator/Debug/da/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/soshika/Projects/ReactionGame/ReactionGame.iOS/bin/iPhoneSimulator/Debug/de/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/soshika/Projects/ReactionGame/ReactionGame.iOS/bin/iPhoneSimulator/Debug/el/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/soshika/Projects/ReactionGame/ReactionGame.iOS/bin/iPhoneSimulator/Debug/es/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/soshika/Projects/ReactionGame/ReactionGame.iOS/bin/iPhoneSimulator/Debug/fi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/soshika/Projects/ReactionGame/ReactionGame.iOS/bin/iPhoneSimulator/Debug/fr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/soshika/Projects/ReactionGame/ReactionGame.iOS/bin/iPhoneSimulator/Debug/he/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/soshika/Projects/ReactionGame/ReactionGame.iOS/bin/iPhoneSimulator/Debug/hi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/soshika/Projects/ReactionGame/ReactionGame.iOS/bin/iPhoneSimulator/Debug/hr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/soshika/Projects/ReactionGame/ReactionGame.iOS/bin/iPhoneSimulator/Debug/hu/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/soshika/Projects/ReactionGame/ReactionGame.iOS/bin/iPhoneSimulator/Debug/id/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/soshika/Projects/ReactionGame/ReactionGame.iOS/bin/iPhoneSimulator/Debug/it/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/soshika/Projects/ReactionGame/ReactionGame.iOS/bin/iPhoneSimulator/Debug/ja/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/soshika/Projects/ReactionGame/ReactionGame.iOS/bin/iPhoneSimulator/Debug/ko/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/soshika/Projects/ReactionGame/ReactionGame.iOS/bin/iPhoneSimulator/Debug/ms/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/soshika/Projects/ReactionGame/ReactionGame.iOS/bin/iPhoneSimulator/Debug/nb/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/soshika/Projects/ReactionGame/ReactionGame.iOS/bin/iPhoneSimulator/Debug/nl/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/soshika/Projects/ReactionGame/ReactionGame.iOS/bin/iPhoneSimulator/Debug/pl/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/soshika/Projects/ReactionGame/ReactionGame.iOS/bin/iPhoneSimulator/Debug/pt-BR/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/soshika/Projects/ReactionGame/ReactionGame.iOS/bin/iPhoneSimulator/Debug/pt/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/soshika/Projects/ReactionGame/ReactionGame.iOS/bin/iPhoneSimulator/Debug/ro/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/soshika/Projects/ReactionGame/ReactionGame.iOS/bin/iPhoneSimulator/Debug/ru/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/soshika/Projects/ReactionGame/ReactionGame.iOS/bin/iPhoneSimulator/Debug/sk/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/soshika/Projects/ReactionGame/ReactionGame.iOS/bin/iPhoneSimulator/Debug/sv/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/soshika/Projects/ReactionGame/ReactionGame.iOS/bin/iPhoneSimulator/Debug/th/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/soshika/Projects/ReactionGame/ReactionGame.iOS/bin/iPhoneSimulator/Debug/tr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/soshika/Projects/ReactionGame/ReactionGame.iOS/bin/iPhoneSimulator/Debug/uk/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/soshika/Projects/ReactionGame/ReactionGame.iOS/bin/iPhoneSimulator/Debug/vi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/soshika/Projects/ReactionGame/ReactionGame.iOS/bin/iPhoneSimulator/Debug/zh-HK/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/soshika/Projects/ReactionGame/ReactionGame.iOS/bin/iPhoneSimulator/Debug/zh-Hans/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/soshika/Projects/ReactionGame/ReactionGame.iOS/bin/iPhoneSimulator/Debug/zh-Hant/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/soshika/Projects/ReactionGame/ReactionGame.iOS/bin/iPhoneSimulator/Debug/ReactionGame.dll
+/Users/soshika/Projects/ReactionGame/ReactionGame.iOS/bin/iPhoneSimulator/Debug/ReactionGame.pdb
+/Users/soshika/Projects/ReactionGame/ReactionGame.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone se (2nd generation)-15.0/actool/_PartialAppManifest.items
+/Users/soshika/Projects/ReactionGame/ReactionGame.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone se (2nd generation)-15.0/actool/_BundleResourceWithLogicalName.items
+/Users/soshika/Projects/ReactionGame/ReactionGame.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone se (2nd generation)-15.0/actool/_ProcessedImageAssetsPath.items
+/Users/soshika/Projects/ReactionGame/ReactionGame.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone se (2nd generation)-15.0/ibtool/_BundleResourceWithLogicalName.items
+/Users/soshika/Projects/ReactionGame/ReactionGame.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone se (2nd generation)-15.0/ibtool/_ProcessedInterfaceDefinitionsPath.items
+/Users/soshika/Projects/ReactionGame/ReactionGame.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone se (2nd generation)-15.0/coremlc/_PartialAppManifest.items
+/Users/soshika/Projects/ReactionGame/ReactionGame.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone se (2nd generation)-15.0/coremlc/_BundleResourceWithLogicalName.items
+/Users/soshika/Projects/ReactionGame/ReactionGame.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone se (2nd generation)-15.0/coremlc/_ProcessedCoreMLModelsPath.items
+/Users/soshika/Projects/ReactionGame/ReactionGame.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone se (2nd generation)-15.0/_ProcessedBundleResourcesPath.items
+/Users/soshika/Projects/ReactionGame/ReactionGame.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone se (2nd generation)-15.0/_ProcessedContentPath.items
+/Users/soshika/Projects/ReactionGame/ReactionGame.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone se (2nd generation)-15.0/optimized/
+/Users/soshika/Projects/ReactionGame/ReactionGame.iOS/obj/iPhoneSimulator/Debug/ReactionGame.iOS.csproj.AssemblyReference.cache
+/Users/soshika/Projects/ReactionGame/ReactionGame.iOS/obj/iPhoneSimulator/Debug/ReactionGame.iOS.csproj.CoreCompileInputs.cache
+/Users/soshika/Projects/ReactionGame/ReactionGame.iOS/obj/iPhoneSimulator/Debug/ReactionGame.iOS.csproj.CopyComplete
+/Users/soshika/Projects/ReactionGame/ReactionGame.iOS/obj/iPhoneSimulator/Debug/ReactionGame.iOS.exe
+/Users/soshika/Projects/ReactionGame/ReactionGame.iOS/obj/iPhoneSimulator/Debug/ReactionGame.iOS.pdb
+/Users/soshika/Projects/ReactionGame/ReactionGame.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone se (2nd generation)-15.0/optimized/apple.png
+/Users/soshika/Projects/ReactionGame/ReactionGame.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone se (2nd generation)-15.0/optimized/bananas.png
+/Users/soshika/Projects/ReactionGame/ReactionGame.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone se (2nd generation)-15.0/optimized/dragon.png
+/Users/soshika/Projects/ReactionGame/ReactionGame.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone se (2nd generation)-15.0/optimized/lemon.png
+/Users/soshika/Projects/ReactionGame/ReactionGame.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone se (2nd generation)-15.0/optimized/orange.png
+/Users/soshika/Projects/ReactionGame/ReactionGame.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone se (2nd generation)-15.0/optimized/strawberry.png
+/Users/soshika/Projects/ReactionGame/ReactionGame.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone se (2nd generation)-15.0/optimized/watermelon.png
