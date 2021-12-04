@@ -1,22 +1,15 @@
 ﻿<Properties StartupConfiguration="{3C22D975-4AFF-4A5C-8A4A-27A5B8C4B8F8}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="ReactionGame/Views/MainPage.xaml.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument=".gitignore">
     <Files>
       <File FileName="ReactionGame/App.xaml.cs" Line="13" Column="58" />
-      <File FileName="ReactionGame/Views/MainPage.xaml" Line="13" Column="41" />
-      <File FileName="ReactionGame/Views/MainPage.xaml.cs" Line="21" Column="10" />
+      <File FileName="ReactionGame/Views/MainPage.xaml" Line="16" Column="17" />
+      <File FileName="ReactionGame/Views/MainPage.xaml.cs" Line="100" Column="10" />
+      <File FileName=".gitignore" Line="195" Column="22" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="ReactionGame" expanded="True">
-            <Node name="ReactionGame" expanded="True">
-              <Node name="Views" expanded="True">
-                <Node name="MainPage.xaml" expanded="True">
-                  <Node name="MainPage.xaml.cs" selected="True" />
-                </Node>
-              </Node>
-            </Node>
-          </Node>
+          <Node name="ReactionGame" expanded="True" selected="True" />
         </State>
       </Pad>
     </Pads>
